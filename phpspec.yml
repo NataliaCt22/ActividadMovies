@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Actividad
+        psr4_prefix: Actividad
+        src_path: app
